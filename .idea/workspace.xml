@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0567da4-292d-4a19-9887-8e092b817b24" name="Default Changelist" comment="" />
+    <list default="true" id="c0567da4-292d-4a19-9887-8e092b817b24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/drgs_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/drgs_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medical_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/medical_task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/tax_task.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/tax_task.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1eO2hjjYAgal0W0ZOKTMcOdJn7Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -44,7 +60,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594178439785</updated>
+      <workItem from="1594179842695" duration="89000" />
+      <workItem from="1594187753246" duration="68000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3146" y="170" key="CommitChangelistDialog2" timestamp="1594187858204">
+      <screen x="1680" y="23" width="2560" height="1417" />
+    </state>
+    <state x="3146" y="170" key="CommitChangelistDialog2/1680.23.2560.1417/0.23.1680.1002@1680.23.2560.1417" timestamp="1594187858204" />
   </component>
 </project>

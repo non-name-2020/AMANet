@@ -74,7 +74,7 @@ args = parser.parse_args()
 
 model_name = "AMANet-medical"
 # time
-time_str = time.strftime("%Y%m%d%H%M", time.localtime())
+time_str = time.strftime("%Y%m%d%H%M%S", time.localtime())
 
 
 def write_log(callback, names, logs, epoch_no):
